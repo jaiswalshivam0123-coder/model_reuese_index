@@ -1,8 +1,3 @@
-Here’s the full `README.md` content ready to copy‑paste straight into your repo:
-
----
-
-```markdown
 # 🧠 Model Reuse Index (MRI)
 
 A local prototype for discovering, ranking, and reusing AI assets (models, agents, pipelines) in large organizations to reduce cloud costs, duplication, and carbon footprint.
