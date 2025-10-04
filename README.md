@@ -38,7 +38,7 @@ model_reuse_index/
 ├── config/                 # Constants (e.g., prompt text)
 │   └── constants.py
 ├── data/                   # Place your asset metadata Excel file here
-├── test.py                 # CLI entry point
+├── main.py                 # CLI entry point
 ├── requirements.txt
 └── README.md
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ### 4. Start with CLI (for now)
 
 ```bash
-python test.py
+python main.py
 ```
 
 You'll be prompted to:
